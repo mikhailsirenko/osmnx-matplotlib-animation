@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "name": "HagaZiekenhuis locatie Juliana Kinderziekenhuis", "addr:city": null, "addr:postcode": null, "healthcare:speciality": null, "emergency": null }, "geometry": { "type": "Point", "coordinates": [ 4.2639767, 52.0550701 ] } },
+{ "type": "Feature", "properties": { "name": "HMC Bronovo", "addr:city": "'s-Gravenhage", "addr:postcode": "2597AX", "healthcare:speciality": null, "emergency": "yes" }, "geometry": { "type": "Point", "coordinates": [ 4.317859246480068, 52.101371071194201 ] } },
+{ "type": "Feature", "properties": { "name": "HMC Westeinde", "addr:city": "'s-Gravenhage", "addr:postcode": "2512VA", "healthcare:speciality": null, "emergency": "yes" }, "geometry": { "type": "Point", "coordinates": [ 4.299907823461282, 52.07416759435074 ] } },
+{ "type": "Feature", "properties": { "name": "HagaZiekenhuis locatie Leyweg", "addr:city": "'s-Gravenhage", "addr:postcode": "2545AA", "healthcare:speciality": null, "emergency": "yes" }, "geometry": { "type": "Point", "coordinates": [ 4.263328143864035, 52.055550964665287 ] } },
+{ "type": "Feature", "properties": { "name": "Haga Ziekenhuis, locatie Sportlaan", "addr:city": null, "addr:postcode": null, "healthcare:speciality": null, "emergency": null }, "geometry": { "type": "Point", "coordinates": [ 4.264572128869638, 52.081313493144407 ] } }
+]
+}
