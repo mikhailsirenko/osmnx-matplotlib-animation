@@ -1,3 +1,5 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mikhailsirenko/osmnx-matplotlib-animation/blob/master/main.ipynb)
+
 # osmnx-matplotlib-animation
 A simple example of how to animate cars riding on OSMnx graph
 
