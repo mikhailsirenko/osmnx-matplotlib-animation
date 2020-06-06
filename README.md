@@ -1,7 +1,7 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mikhailsirenko/osmnx-matplotlib-animation/blob/master/main.ipynb)
 
 # osmnx-matplotlib-animation
-A simple example of how to animate cars riding on OSMnx graph
+A simple example of how to animate objects moving on OSMnx graph
 
 ## Motivation
 Create a simple minimalistic animation of an object (e.g. car, citizen) moving on OSMnx or NetworkX graph object (street network) using matplotlib syntax. 
