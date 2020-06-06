@@ -6,7 +6,7 @@ A simple example of how to animate cars riding on OSMnx graph
 ## Motivation
 Create a simple minimalistic animation of an object (e.g. car, citizen) moving on OSMnx or NetworkX graph object (street network) using matplotlib syntax. 
 
-An alternative that is worth mentioning is [streamlit](https://github.com/streamlit/streamlit). It is much more powerful, allows you to use controls and looks fancier :-) The drawback is its syntax and the way how it works matplotlib (GeoPandas) objects (my application was too slow). If you know better ways to animate this task, please, ping [me](https://twitter.com/mikhailsirenko) on Twitter.
+An alternative that is worth mentioning is [streamlit](https://github.com/streamlit/streamlit). It is much more powerful, allows you to use controls and looks fancier :-) The drawback is its syntax and the way how it works with matplotlib (GeoPandas) objects (my application was too slow). If you know better ways to animate this task, please, ping [me](https://twitter.com/mikhailsirenko) on Twitter.
 
 ## Example
 The example in `main.ipynb` describes a ride of 5 ambulance cars from 5 hospitals in The Hague to a district called Centrum. To get from the origins to destinations cars use the shortest paths. They start the ride at the same time, but since the route lengths are different, some of them arrive earlier.
