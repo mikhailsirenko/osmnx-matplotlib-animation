@@ -1,0 +1,14 @@
+name: osmnx-matplotlib-animation
+channels:
+  - conda-forge
+dependencies:
+  - pandas
+  - geopandas
+  - descartes
+  - numpy
+  - matplotlib
+  - networkx
+  - osmnx
+  - partd
+  - bokeh
+  - dask

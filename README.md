@@ -1,4 +1,4 @@
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mikhailsirenko/osmnx-matplotlib-animation/blob/master/main.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mikhailsirenko/osmnx-matplotlib-animation/master?filepath=main.ipynb)
 
 # osmnx-matplotlib-animation
 A simple example of how to animate objects moving on OSMnx graph
